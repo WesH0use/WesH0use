@@ -1,6 +1,6 @@
-### Hi there 👋 Here are some of my recent projects:
+### Recent projects:
 
-- [Crate Scanner](https://crate-scanner-v3-qk6v654z4a-ew.a.run.app/) - Transfer learning app that detects vinyl covers and recommends albums
+- [Crate Scanner](https://cratescanner-qk6v654z4a-ey.a.run.app/) - Transfer learning app that detects vinyl covers and recommends albums
 - [Twitter Sentiment Retreival](https://twitter-sentiment-retrieval.herokuapp.com/) - Web app that takes in a Twitter handle creates a dataframe with sentiment intensity scores and text analysis. 
 
 - A data engineer from NYC based in Berlin. Here personal projects and learning more about Python and data warehousing. I am interested in full-time and remote work. 
