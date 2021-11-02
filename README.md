@@ -4,7 +4,6 @@
 - [Twitter Sentiment Retreival](https://twitter-sentiment-retrieval.herokuapp.com/) - Web app that takes in a Twitter handle creates a dataframe with sentiment intensity scores and text analysis. 
 
 - A data engineer from NYC based in Berlin. Here personal projects and learning more about Python and data warehousing. I am interested in full-time and remote work. 
-- Le Wagon graduate
 - Certified AWS Developer ☁️ Reach me at wesevan7[at]gmail[dot]com
 
 ### My Technology Stack:
