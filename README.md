@@ -1,6 +1,6 @@
 ### Recent projects:
 
-- [Crate Scanner](https://cratescanner-qk6v654z4a-ey.a.run.app/) - Transfer learning app that detects vinyl covers and recommends albums
+- [Crate Scanner](https://github.com/tklein98/crate_scanner/) - Transfer learning app that detects vinyl covers and recommends albums
 - [Twitter Sentiment Retreival](https://twitter-sentiment-retrieval.herokuapp.com/) - Web app that takes in a Twitter handle creates a dataframe with sentiment intensity scores and text analysis. 
 - [TikTok Trend Visualization](https://medium.com/@wesevan7/visualizing-song-trends-on-tiktok-c53b211789a5) - A step-by-step guide on how to visualize the audio features of trending songs on TikTok using Spotify's API, Python, and data visualization tools like Matplotlib and Seaborn. 
 
